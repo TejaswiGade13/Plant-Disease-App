@@ -75,7 +75,7 @@ Plant DISEASE/
 
 ```bash
 git clone https://github.com/TejaswiGade13/Plant-Disease-App.git
-cd Plant Disease
+cd Plant disease
 ```
 
 ### 2. Set Up a Virtual Environment
