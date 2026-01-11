@@ -74,7 +74,7 @@ Plant DISEASE/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/BhanuPrakashYarajarla/plant-disease-detection.git
+git clone https://github.com/TejaswiGade13/Plant-Disease-App.git
 cd plant-disease-detection
 ```
 
